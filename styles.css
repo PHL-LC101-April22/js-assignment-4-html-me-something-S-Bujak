@@ -1,1 +1,21 @@
-/* Write your CSS here! */
+#mainHeading {
+    color: red;
+}
+
+body {
+
+	margin: 8px auto;
+	background-color: pink;
+	border: 1px solid purple;
+    display: block;
+}
+
+.funParagraph {
+color: green
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
