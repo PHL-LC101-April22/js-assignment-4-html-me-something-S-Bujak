@@ -1,6 +1,10 @@
 #mainHeading {
     color: red;
+    text-align: center;
 }
+
+  
+  
 
 body {
 
@@ -8,14 +12,20 @@ body {
 	background-color: pink;
 	border: 1px solid purple;
     display: block;
+    padding: 15%
 }
 
-.funParagraph {
-color: green
+
+
+p.funParagraph {
+color: green;
+border: 1px;
+padding: 35px;
+  
 }
 
 img {
     width: 400px;
     height: 400px;
-    object-fit: cover;
+    object-fit: contain;
 }
